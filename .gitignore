@@ -1,0 +1,28 @@
+# Virtual environment
+env/
+venv/
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+logs/
+*.log
+*.out
+*.err
+*.swp
+.DS_Store
+
+# Python dependencies
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ollama cache (if applicable)
+~/.ollama/
+
+# Ignore datasets (if stored locally)
+CUAD_v1/
