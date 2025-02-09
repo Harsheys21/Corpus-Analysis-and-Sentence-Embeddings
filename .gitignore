@@ -26,3 +26,4 @@ pip-delete-this-directory.txt
 
 # Ignore datasets (if stored locally)
 CUAD_v1/
+sts2016/
